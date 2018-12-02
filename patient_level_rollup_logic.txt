@@ -1,0 +1,6 @@
+- default to "unknown" by "none" (the test was not done/not mentioned)
+
+- if the report level label is in the trumping list - give it the appropriate rank
+
+- if it is not (e.g. "Positive by None") and there is a test result (i.e. positive or negative) 
+  then default the method to the most common method (and give it the appropriate rank)

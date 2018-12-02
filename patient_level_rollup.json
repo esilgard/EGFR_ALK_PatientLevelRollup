@@ -1,0 +1,19 @@
+{"EGFR":{
+	"0":["Positive","MutationalAnalysis"],
+	"1":["Negative","MutationalAnalysis"],
+	"2":["Positive","OTHER"],
+	"3":["Negative","OTHER"],
+	"4":["Insufficient","None"],
+	"5":["Unknown","None"],
+	"6":["NotReported","None"]
+	},
+"ALK":{
+	"0":["Positive","FISH"],
+	"1":["Negative","FISH"],
+	"2":["Positive","OTHER"],
+	"3":["Negative","OTHER"],
+	"4":["Insufficient","None"],
+	"5":["Unknown","None"],
+	"6":["NotReported","None"]
+	}
+}
