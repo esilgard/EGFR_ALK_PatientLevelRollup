@@ -6,6 +6,8 @@ Created on Thu Aug 18 16:23:45 2016
 """
 import os
 ## patient/case level roll up rules for egfr/alk classification
+## directory structure is based on the output from the report level output
+## from the original EGFR_ALK_Classification
 
 run = 'System'
 gold_case_labels = {}
